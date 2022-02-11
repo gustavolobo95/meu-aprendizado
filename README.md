@@ -1,2 +1,2 @@
 # Meu Aprendizado
-Este repositório tem objetivo em atualizar meus conhecimentos obtidos!
+Este repositório tem objetivo em compartilhar e atualizar meus conhecimentos obtidos!
